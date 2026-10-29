@@ -1,0 +1,51 @@
+manager_id,manager_name,email,department,active
+MGR-000001,Priya Joshi,manager1@example.test,Cloud Operations,True
+MGR-000002,Divya Rao,manager2@example.test,Customer Operations,True
+MGR-000003,Kiran Patel,manager3@example.test,Data,True
+MGR-000004,Aarav Verma,manager4@example.test,Customer Operations,True
+MGR-000005,Varun Reddy,manager5@example.test,Engineering,True
+MGR-000006,Isha Patel,manager6@example.test,Cloud Operations,True
+MGR-000007,Zoya Sharma,manager7@example.test,Product,True
+MGR-000008,Isha Naidu,manager8@example.test,Data,True
+MGR-000009,Sowmya Sharma,manager9@example.test,Data,True
+MGR-000010,Vikram Nair,manager10@example.test,Engineering,True
+MGR-000011,Vikram Sharma,manager11@example.test,Cloud Operations,True
+MGR-000012,Arjun Joshi,manager12@example.test,Cloud Operations,True
+MGR-000013,Sanjay Rao,manager13@example.test,Engineering,True
+MGR-000014,Arjun Reddy,manager14@example.test,AI Platform,True
+MGR-000015,Akash Mishra,manager15@example.test,Engineering,True
+MGR-000016,Vikram Patel,manager16@example.test,Quality,True
+MGR-000017,Sowmya Singh,manager17@example.test,Engineering,True
+MGR-000018,Divya Gupta,manager18@example.test,Quality,True
+MGR-000019,Riya Sharma,manager19@example.test,AI Platform,True
+MGR-000020,Sana Verma,manager20@example.test,Customer Operations,True
+MGR-000021,Aditi Reddy,manager21@example.test,Customer Operations,True
+MGR-000022,Rahul Mishra,manager22@example.test,Quality,True
+MGR-000023,Isha Naidu,manager23@example.test,Engineering,True
+MGR-000024,Akash Singh,manager24@example.test,Engineering,True
+MGR-000025,Neha Das,manager25@example.test,Data,True
+MGR-000026,Aarav Sharma,manager26@example.test,Engineering,True
+MGR-000027,Rahul Patel,manager27@example.test,Quality,True
+MGR-000028,Sanjay Nair,manager28@example.test,Product,True
+MGR-000029,Akash Verma,manager29@example.test,Quality,True
+MGR-000030,Aditi Singh,manager30@example.test,Engineering,True
+MGR-000031,Vikram Gupta,manager31@example.test,Engineering,True
+MGR-000032,Sanjay Rao,manager32@example.test,Data,True
+MGR-000033,Aarav Naidu,manager33@example.test,Product,True
+MGR-000034,Divya Kumar,manager34@example.test,Customer Operations,True
+MGR-000035,Sowmya Das,manager35@example.test,Product,True
+MGR-000036,Sowmya Iyer,manager36@example.test,Cloud Operations,True
+MGR-000037,Aditi Khan,manager37@example.test,Cloud Operations,True
+MGR-000038,Sana Rao,manager38@example.test,Customer Operations,True
+MGR-000039,Ananya Rao,manager39@example.test,Cloud Operations,True
+MGR-000040,Vikram Joshi,manager40@example.test,Engineering,True
+MGR-000041,Aditi Verma,manager41@example.test,Quality,True
+MGR-000042,Aarav Gupta,manager42@example.test,Quality,True
+MGR-000043,Meera Gupta,manager43@example.test,Engineering,True
+MGR-000044,Sana Verma,manager44@example.test,Cloud Operations,True
+MGR-000045,Isha Verma,manager45@example.test,Cloud Operations,True
+MGR-000046,Zoya Das,manager46@example.test,Product,True
+MGR-000047,Sowmya Verma,manager47@example.test,Quality,True
+MGR-000048,Sanjay Kumar,manager48@example.test,Product,True
+MGR-000049,Meera Singh,manager49@example.test,Quality,True
+MGR-000050,Rahul Khan,manager50@example.test,Customer Operations,True

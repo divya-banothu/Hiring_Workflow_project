@@ -1,0 +1,47 @@
+[
+  {
+    "case_id":"GT-001",
+    "entity_type":"Application",
+    "entity_id":"APP-CAND-002623-REQ-2026-000055",
+    "issue_type":"ADVANCED_WITHOUT_REQUIRED_REVIEW",
+    "expected_decision":"FLAG_FOR_REVIEW",
+    "rule":"Technical stage requires a completed screening scorecard",
+    "severity":"HIGH"
+  },
+  {
+    "case_id":"GT-002",
+    "entity_type":"Interview",
+    "entity_id":"INT-2026-000002",
+    "issue_type":"INTERVIEWER_DOUBLE_BOOKED",
+    "expected_decision":"BLOCK_OR_RESCHEDULE",
+    "rule":"An interviewer cannot attend overlapping interviews",
+    "severity":"HIGH"
+  },
+  {
+    "case_id":"GT-003",
+    "entity_type":"Offer",
+    "entity_id":"OFF-2026-000001",
+    "issue_type":"OFFER_EXCEEDS_BAND",
+    "expected_decision":"REJECT_OR_ESCALATE",
+    "rule":"Proposed salary must be within the requisition's approved range",
+    "severity":"HIGH"
+  },
+  {
+    "case_id":"GT-004",
+    "entity_type":"Interview",
+    "entity_id":"INT-2026-000001",
+    "issue_type":"WITHDRAWN_CANDIDATE_STILL_SCHEDULED",
+    "expected_decision":"CANCEL_INTERVIEW",
+    "rule":"Withdrawn applications must not have active scheduled interviews",
+    "severity":"MEDIUM"
+  },
+  {
+    "case_id":"GT-005",
+    "entity_type":"Scorecard",
+    "entity_id":"SCORE-INT-2026-000003-INTV-000022",
+    "issue_type":"IRRELEVANT_EVALUATION_CRITERION",
+    "expected_decision":"REMOVE_CRITERION_AND_REVIEW",
+    "rule":"Scorecards may use only documented job-related rubric criteria",
+    "severity":"MEDIUM"
+  }
+]

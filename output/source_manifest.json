@@ -1,0 +1,41 @@
+{
+  "project": "HiringFlow",
+  "scale": "full",
+  "seed": 20261022,
+  "generated_at_utc": "intentionally_omitted_for_reproducibility",
+  "row_counts": {
+    "hiring_managers": 50,
+    "requisitions": 200,
+    "candidates": 5000,
+    "skill_requirements": 1000,
+    "applications": 8000,
+    "interviewers": 80,
+    "interview_panels": 100,
+    "availability": 300,
+    "interviews": 2000,
+    "scorecards": 1098,
+    "offers": 200,
+    "approvals": 200,
+    "application_stage_history": 14798,
+    "ground_truth": 5
+  },
+  "sha256_csv": {
+    "application_stage_history.csv": "9606be2293d81f6d421749dfa017f95e1730cb4de7834aae4050460bffbb9ae0",
+    "applications.csv": "119352e391d7806349a30530d697d0a9d976bb0abd22b3e61d1e1c048d54f4e3",
+    "approvals.csv": "f54b8ce6c3765bbfb91c8d92e51ff29a1ed75b7f74bf4c4ff8ee4af6c36f8b1a",
+    "availability.csv": "1e60038cd9b3cbd04d1c3222f8b160e45153904ec155300b67f9de0f41a3150f",
+    "candidates.csv": "a912dbfe22d9e21026818a941034ea258fc279f6a509e6c3fb26cbe01f1a1b59",
+    "ground_truth.csv": "04078a0310d9b1afe6161d9f33b846f4dbf965c45720a028b77d488604017ed1",
+    "hiring_managers.csv": "3d530ef9db372b416646efa4884cf088b9c31ddbc76692da4b8e39cbc52cbdee",
+    "interview_panels.csv": "8d7443a252eb7febb10d93cced205c0b163a2fb3bf4b1b9427191ff2b9689d22",
+    "interviewers.csv": "6267c0a5e8f7e2f4a054d0e69053eeb237ab150b15e451759069b03775696c1c",
+    "interviews.csv": "5795d7b866e977bec6938c83e5e30def17364acb1bde649fbca1cfb72d912c7a",
+    "offers.csv": "59aa8575695baed5c4429d69dd8ebba97279fa8c22cae9a0a60b254243492f6a",
+    "requisitions.csv": "4dcc782d978d99653940f7099eb6567c88b4d5284bc1dffa56d2d51bd13c6b53",
+    "scorecards.csv": "c44f08a9a289a6183055d631dc01c8dd3c185bf8259d025325788c46679edba9",
+    "skill_requirements.csv": "d7925df32083c80213c1937260b0fba7f1115be86bb9ac737d55d13e7250480d"
+  },
+  "validation_checks": 36,
+  "validation_failures": 0,
+  "notes": "Ground-truth anomaly cases are deliberate. Structural ID and relationship checks should pass."
+}

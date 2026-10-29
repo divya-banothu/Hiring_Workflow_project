@@ -1,0 +1,6 @@
+case_id,entity_type,entity_id,issue_type,expected_decision,rule,severity
+GT-001,Application,APP-CAND-002623-REQ-2026-000055,ADVANCED_WITHOUT_REQUIRED_REVIEW,FLAG_FOR_REVIEW,Technical stage requires a completed screening scorecard,HIGH
+GT-002,Interview,INT-2026-000002,INTERVIEWER_DOUBLE_BOOKED,BLOCK_OR_RESCHEDULE,An interviewer cannot attend overlapping interviews,HIGH
+GT-003,Offer,OFF-2026-000001,OFFER_EXCEEDS_BAND,REJECT_OR_ESCALATE,Proposed salary must be within the requisition's approved range,HIGH
+GT-004,Interview,INT-2026-000001,WITHDRAWN_CANDIDATE_STILL_SCHEDULED,CANCEL_INTERVIEW,Withdrawn applications must not have active scheduled interviews,MEDIUM
+GT-005,Scorecard,SCORE-INT-2026-000003-INTV-000022,IRRELEVANT_EVALUATION_CRITERION,REMOVE_CRITERION_AND_REVIEW,Scorecards may use only documented job-related rubric criteria,MEDIUM

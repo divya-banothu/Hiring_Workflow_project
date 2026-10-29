@@ -1,0 +1,702 @@
+[
+  {
+    "panel_id":"PANEL-000001",
+    "requisition_id":"REQ-2026-000043",
+    "panel_name":"Hiring Panel 001",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000002",
+    "requisition_id":"REQ-2026-000172",
+    "panel_name":"Hiring Panel 002",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000003",
+    "requisition_id":"REQ-2026-000190",
+    "panel_name":"Hiring Panel 003",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000004",
+    "requisition_id":"REQ-2026-000076",
+    "panel_name":"Hiring Panel 004",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000005",
+    "requisition_id":"REQ-2026-000170",
+    "panel_name":"Hiring Panel 005",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000006",
+    "requisition_id":"REQ-2026-000125",
+    "panel_name":"Hiring Panel 006",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000007",
+    "requisition_id":"REQ-2026-000060",
+    "panel_name":"Hiring Panel 007",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000008",
+    "requisition_id":"REQ-2026-000150",
+    "panel_name":"Hiring Panel 008",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000009",
+    "requisition_id":"REQ-2026-000082",
+    "panel_name":"Hiring Panel 009",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000010",
+    "requisition_id":"REQ-2026-000107",
+    "panel_name":"Hiring Panel 010",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000011",
+    "requisition_id":"REQ-2026-000025",
+    "panel_name":"Hiring Panel 011",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000012",
+    "requisition_id":"REQ-2026-000064",
+    "panel_name":"Hiring Panel 012",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000013",
+    "requisition_id":"REQ-2026-000140",
+    "panel_name":"Hiring Panel 013",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000014",
+    "requisition_id":"REQ-2026-000072",
+    "panel_name":"Hiring Panel 014",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000015",
+    "requisition_id":"REQ-2026-000080",
+    "panel_name":"Hiring Panel 015",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000016",
+    "requisition_id":"REQ-2026-000019",
+    "panel_name":"Hiring Panel 016",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000017",
+    "requisition_id":"REQ-2026-000057",
+    "panel_name":"Hiring Panel 017",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000018",
+    "requisition_id":"REQ-2026-000133",
+    "panel_name":"Hiring Panel 018",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000019",
+    "requisition_id":"REQ-2026-000017",
+    "panel_name":"Hiring Panel 019",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000020",
+    "requisition_id":"REQ-2026-000187",
+    "panel_name":"Hiring Panel 020",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000021",
+    "requisition_id":"REQ-2026-000045",
+    "panel_name":"Hiring Panel 021",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000022",
+    "requisition_id":"REQ-2026-000187",
+    "panel_name":"Hiring Panel 022",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000023",
+    "requisition_id":"REQ-2026-000118",
+    "panel_name":"Hiring Panel 023",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000024",
+    "requisition_id":"REQ-2026-000019",
+    "panel_name":"Hiring Panel 024",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000025",
+    "requisition_id":"REQ-2026-000130",
+    "panel_name":"Hiring Panel 025",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000026",
+    "requisition_id":"REQ-2026-000104",
+    "panel_name":"Hiring Panel 026",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000027",
+    "requisition_id":"REQ-2026-000100",
+    "panel_name":"Hiring Panel 027",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000028",
+    "requisition_id":"REQ-2026-000163",
+    "panel_name":"Hiring Panel 028",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000029",
+    "requisition_id":"REQ-2026-000184",
+    "panel_name":"Hiring Panel 029",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000030",
+    "requisition_id":"REQ-2026-000165",
+    "panel_name":"Hiring Panel 030",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000031",
+    "requisition_id":"REQ-2026-000196",
+    "panel_name":"Hiring Panel 031",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000032",
+    "requisition_id":"REQ-2026-000130",
+    "panel_name":"Hiring Panel 032",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000033",
+    "requisition_id":"REQ-2026-000161",
+    "panel_name":"Hiring Panel 033",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000034",
+    "requisition_id":"REQ-2026-000200",
+    "panel_name":"Hiring Panel 034",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000035",
+    "requisition_id":"REQ-2026-000129",
+    "panel_name":"Hiring Panel 035",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000036",
+    "requisition_id":"REQ-2026-000077",
+    "panel_name":"Hiring Panel 036",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000037",
+    "requisition_id":"REQ-2026-000044",
+    "panel_name":"Hiring Panel 037",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000038",
+    "requisition_id":"REQ-2026-000003",
+    "panel_name":"Hiring Panel 038",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000039",
+    "requisition_id":"REQ-2026-000019",
+    "panel_name":"Hiring Panel 039",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000040",
+    "requisition_id":"REQ-2026-000035",
+    "panel_name":"Hiring Panel 040",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000041",
+    "requisition_id":"REQ-2026-000150",
+    "panel_name":"Hiring Panel 041",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000042",
+    "requisition_id":"REQ-2026-000051",
+    "panel_name":"Hiring Panel 042",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000043",
+    "requisition_id":"REQ-2026-000118",
+    "panel_name":"Hiring Panel 043",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000044",
+    "requisition_id":"REQ-2026-000181",
+    "panel_name":"Hiring Panel 044",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000045",
+    "requisition_id":"REQ-2026-000145",
+    "panel_name":"Hiring Panel 045",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000046",
+    "requisition_id":"REQ-2026-000156",
+    "panel_name":"Hiring Panel 046",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000047",
+    "requisition_id":"REQ-2026-000181",
+    "panel_name":"Hiring Panel 047",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000048",
+    "requisition_id":"REQ-2026-000119",
+    "panel_name":"Hiring Panel 048",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000049",
+    "requisition_id":"REQ-2026-000088",
+    "panel_name":"Hiring Panel 049",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000050",
+    "requisition_id":"REQ-2026-000146",
+    "panel_name":"Hiring Panel 050",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000051",
+    "requisition_id":"REQ-2026-000153",
+    "panel_name":"Hiring Panel 051",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000052",
+    "requisition_id":"REQ-2026-000194",
+    "panel_name":"Hiring Panel 052",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000053",
+    "requisition_id":"REQ-2026-000034",
+    "panel_name":"Hiring Panel 053",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000054",
+    "requisition_id":"REQ-2026-000111",
+    "panel_name":"Hiring Panel 054",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000055",
+    "requisition_id":"REQ-2026-000107",
+    "panel_name":"Hiring Panel 055",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000056",
+    "requisition_id":"REQ-2026-000012",
+    "panel_name":"Hiring Panel 056",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000057",
+    "requisition_id":"REQ-2026-000098",
+    "panel_name":"Hiring Panel 057",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000058",
+    "requisition_id":"REQ-2026-000083",
+    "panel_name":"Hiring Panel 058",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000059",
+    "requisition_id":"REQ-2026-000015",
+    "panel_name":"Hiring Panel 059",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000060",
+    "requisition_id":"REQ-2026-000090",
+    "panel_name":"Hiring Panel 060",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000061",
+    "requisition_id":"REQ-2026-000152",
+    "panel_name":"Hiring Panel 061",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000062",
+    "requisition_id":"REQ-2026-000122",
+    "panel_name":"Hiring Panel 062",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000063",
+    "requisition_id":"REQ-2026-000171",
+    "panel_name":"Hiring Panel 063",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000064",
+    "requisition_id":"REQ-2026-000033",
+    "panel_name":"Hiring Panel 064",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000065",
+    "requisition_id":"REQ-2026-000198",
+    "panel_name":"Hiring Panel 065",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000066",
+    "requisition_id":"REQ-2026-000055",
+    "panel_name":"Hiring Panel 066",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000067",
+    "requisition_id":"REQ-2026-000131",
+    "panel_name":"Hiring Panel 067",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000068",
+    "requisition_id":"REQ-2026-000073",
+    "panel_name":"Hiring Panel 068",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000069",
+    "requisition_id":"REQ-2026-000060",
+    "panel_name":"Hiring Panel 069",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000070",
+    "requisition_id":"REQ-2026-000051",
+    "panel_name":"Hiring Panel 070",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000071",
+    "requisition_id":"REQ-2026-000037",
+    "panel_name":"Hiring Panel 071",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000072",
+    "requisition_id":"REQ-2026-000191",
+    "panel_name":"Hiring Panel 072",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000073",
+    "requisition_id":"REQ-2026-000098",
+    "panel_name":"Hiring Panel 073",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000074",
+    "requisition_id":"REQ-2026-000103",
+    "panel_name":"Hiring Panel 074",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000075",
+    "requisition_id":"REQ-2026-000085",
+    "panel_name":"Hiring Panel 075",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000076",
+    "requisition_id":"REQ-2026-000090",
+    "panel_name":"Hiring Panel 076",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000077",
+    "requisition_id":"REQ-2026-000186",
+    "panel_name":"Hiring Panel 077",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000078",
+    "requisition_id":"REQ-2026-000129",
+    "panel_name":"Hiring Panel 078",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000079",
+    "requisition_id":"REQ-2026-000115",
+    "panel_name":"Hiring Panel 079",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000080",
+    "requisition_id":"REQ-2026-000115",
+    "panel_name":"Hiring Panel 080",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000081",
+    "requisition_id":"REQ-2026-000149",
+    "panel_name":"Hiring Panel 081",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000082",
+    "requisition_id":"REQ-2026-000038",
+    "panel_name":"Hiring Panel 082",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000083",
+    "requisition_id":"REQ-2026-000031",
+    "panel_name":"Hiring Panel 083",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000084",
+    "requisition_id":"REQ-2026-000056",
+    "panel_name":"Hiring Panel 084",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000085",
+    "requisition_id":"REQ-2026-000137",
+    "panel_name":"Hiring Panel 085",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000086",
+    "requisition_id":"REQ-2026-000098",
+    "panel_name":"Hiring Panel 086",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000087",
+    "requisition_id":"REQ-2026-000157",
+    "panel_name":"Hiring Panel 087",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000088",
+    "requisition_id":"REQ-2026-000087",
+    "panel_name":"Hiring Panel 088",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000089",
+    "requisition_id":"REQ-2026-000093",
+    "panel_name":"Hiring Panel 089",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000090",
+    "requisition_id":"REQ-2026-000030",
+    "panel_name":"Hiring Panel 090",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000091",
+    "requisition_id":"REQ-2026-000061",
+    "panel_name":"Hiring Panel 091",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000092",
+    "requisition_id":"REQ-2026-000185",
+    "panel_name":"Hiring Panel 092",
+    "panel_type":"Cross-functional",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000093",
+    "requisition_id":"REQ-2026-000158",
+    "panel_name":"Hiring Panel 093",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000094",
+    "requisition_id":"REQ-2026-000107",
+    "panel_name":"Hiring Panel 094",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000095",
+    "requisition_id":"REQ-2026-000199",
+    "panel_name":"Hiring Panel 095",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000096",
+    "requisition_id":"REQ-2026-000148",
+    "panel_name":"Hiring Panel 096",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000097",
+    "requisition_id":"REQ-2026-000080",
+    "panel_name":"Hiring Panel 097",
+    "panel_type":"Manager",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000098",
+    "requisition_id":"REQ-2026-000174",
+    "panel_name":"Hiring Panel 098",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000099",
+    "requisition_id":"REQ-2026-000189",
+    "panel_name":"Hiring Panel 099",
+    "panel_type":"Technical",
+    "active":true
+  },
+  {
+    "panel_id":"PANEL-000100",
+    "requisition_id":"REQ-2026-000118",
+    "panel_name":"Hiring Panel 100",
+    "panel_type":"Technical",
+    "active":true
+  }
+]

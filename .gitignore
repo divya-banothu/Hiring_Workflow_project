@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+output_run_a/
+output_run_b/
+output_demo/
+# If you generate the full profile locally and do not want large derived files in Git,
+# add output/csv/, output/json/, and output/hiringflow.sqlite here before committing.

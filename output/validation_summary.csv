@@ -1,0 +1,37 @@
+check,table,count,status,details
+PRIMARY_KEY_UNIQUENESS,hiring_managers,0,PASS,manager_id
+PRIMARY_KEY_UNIQUENESS,requisitions,0,PASS,requisition_id
+PRIMARY_KEY_UNIQUENESS,candidates,0,PASS,candidate_id
+PRIMARY_KEY_UNIQUENESS,skill_requirements,0,PASS,skill_requirement_id
+PRIMARY_KEY_UNIQUENESS,applications,0,PASS,application_id
+PRIMARY_KEY_UNIQUENESS,interviewers,0,PASS,interviewer_id
+PRIMARY_KEY_UNIQUENESS,interview_panels,0,PASS,panel_id
+PRIMARY_KEY_UNIQUENESS,availability,0,PASS,availability_id
+PRIMARY_KEY_UNIQUENESS,interviews,0,PASS,interview_id
+PRIMARY_KEY_UNIQUENESS,scorecards,0,PASS,scorecard_id
+PRIMARY_KEY_UNIQUENESS,offers,0,PASS,offer_id
+PRIMARY_KEY_UNIQUENESS,approvals,0,PASS,approval_id
+PRIMARY_KEY_UNIQUENESS,application_stage_history,0,PASS,event_id
+FOREIGN_KEY_INTEGRITY,requisitions,0,PASS,hiring_manager_id -> hiring_managers.manager_id
+FOREIGN_KEY_INTEGRITY,skill_requirements,0,PASS,requisition_id -> requisitions.requisition_id
+FOREIGN_KEY_INTEGRITY,applications,0,PASS,candidate_id -> candidates.candidate_id
+FOREIGN_KEY_INTEGRITY,applications,0,PASS,requisition_id -> requisitions.requisition_id
+FOREIGN_KEY_INTEGRITY,interview_panels,0,PASS,requisition_id -> requisitions.requisition_id
+FOREIGN_KEY_INTEGRITY,availability,0,PASS,interviewer_id -> interviewers.interviewer_id
+FOREIGN_KEY_INTEGRITY,interviews,0,PASS,application_id -> applications.application_id
+FOREIGN_KEY_INTEGRITY,interviews,0,PASS,panel_id -> interview_panels.panel_id
+FOREIGN_KEY_INTEGRITY,interviews,0,PASS,interviewer_id -> interviewers.interviewer_id
+FOREIGN_KEY_INTEGRITY,scorecards,0,PASS,interview_id -> interviews.interview_id
+FOREIGN_KEY_INTEGRITY,scorecards,0,PASS,reviewer_id -> interviewers.interviewer_id
+FOREIGN_KEY_INTEGRITY,offers,0,PASS,application_id -> applications.application_id
+FOREIGN_KEY_INTEGRITY,approvals,0,PASS,offer_id -> offers.offer_id
+FOREIGN_KEY_INTEGRITY,application_stage_history,0,PASS,application_id -> applications.application_id
+COMPENSATION_BAND_ARITHMETIC,requisitions,0,PASS,salary_min_inr must be <= salary_max_inr
+SCORE_RECONCILIATION,scorecards,0,PASS,overall_score must equal the mean of four rubric scores
+ALLOWED_STAGE_ENUM,applications,0,PASS,current_stage must be a documented stage
+LABELLED_EDGE_CASE_COVERAGE,ground_truth,5,PASS,Known anomalies are stored separately from operational input tables
+STAGE_GATE_EXCEPTIONS,applications,1553,FLAGGED,Technical-stage applications without a completed prior review need investigation; simplified prototype gate check
+ACTIVE_INTERVIEWER_CONFLICTS,interviews,0,PASS,Same interviewer/date/start slot used by multiple active interviews
+WITHDRAWN_APPLICATION_ACTIVE_INTERVIEWS,interviews,49,FLAGGED,Withdrawn applications should not have scheduled or rescheduled interviews
+OFFERS_OUTSIDE_COMPENSATION_BAND,offers,1,FLAGGED,Out-of-band offers must be rejected or escalated
+IRRELEVANT_SCORECARD_CRITERIA,scorecards,1,FLAGGED,Only documented job-related rubric criteria should be used

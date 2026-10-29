@@ -1,0 +1,1602 @@
+[
+  {
+    "approval_id":"APR-000001",
+    "offer_id":"OFF-2026-000001",
+    "approver_id":"MGR-000045",
+    "decision":"REJECTED",
+    "decision_date":"2026-01-20",
+    "comments":"Rejected by synthetic rule: proposed salary exceeds approved band"
+  },
+  {
+    "approval_id":"APR-000002",
+    "offer_id":"OFF-2026-000002",
+    "approver_id":"MGR-000049",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-13",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000003",
+    "offer_id":"OFF-2026-000003",
+    "approver_id":"MGR-000031",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000004",
+    "offer_id":"OFF-2026-000004",
+    "approver_id":"MGR-000004",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-06",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000005",
+    "offer_id":"OFF-2026-000005",
+    "approver_id":"MGR-000050",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-19",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000006",
+    "offer_id":"OFF-2026-000006",
+    "approver_id":"MGR-000040",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-26",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000007",
+    "offer_id":"OFF-2026-000007",
+    "approver_id":"MGR-000019",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-01",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000008",
+    "offer_id":"OFF-2026-000008",
+    "approver_id":"MGR-000001",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-23",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000009",
+    "offer_id":"OFF-2026-000009",
+    "approver_id":"MGR-000031",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-17",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000010",
+    "offer_id":"OFF-2026-000010",
+    "approver_id":"MGR-000004",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-01",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000011",
+    "offer_id":"OFF-2026-000011",
+    "approver_id":"MGR-000007",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000012",
+    "offer_id":"OFF-2026-000012",
+    "approver_id":"MGR-000030",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000013",
+    "offer_id":"OFF-2026-000013",
+    "approver_id":"MGR-000022",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000014",
+    "offer_id":"OFF-2026-000014",
+    "approver_id":"MGR-000049",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-20",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000015",
+    "offer_id":"OFF-2026-000015",
+    "approver_id":"MGR-000050",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-20",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000016",
+    "offer_id":"OFF-2026-000016",
+    "approver_id":"MGR-000020",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-05",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000017",
+    "offer_id":"OFF-2026-000017",
+    "approver_id":"MGR-000048",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-04",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000018",
+    "offer_id":"OFF-2026-000018",
+    "approver_id":"MGR-000031",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-31",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000019",
+    "offer_id":"OFF-2026-000019",
+    "approver_id":"MGR-000030",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-31",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000020",
+    "offer_id":"OFF-2026-000020",
+    "approver_id":"MGR-000006",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000021",
+    "offer_id":"OFF-2026-000021",
+    "approver_id":"MGR-000015",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-05",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000022",
+    "offer_id":"OFF-2026-000022",
+    "approver_id":"MGR-000010",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-25",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000023",
+    "offer_id":"OFF-2026-000023",
+    "approver_id":"MGR-000011",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000024",
+    "offer_id":"OFF-2026-000024",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000025",
+    "offer_id":"OFF-2026-000025",
+    "approver_id":"MGR-000007",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-14",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000026",
+    "offer_id":"OFF-2026-000026",
+    "approver_id":"MGR-000035",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-06",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000027",
+    "offer_id":"OFF-2026-000027",
+    "approver_id":"MGR-000014",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000028",
+    "offer_id":"OFF-2026-000028",
+    "approver_id":"MGR-000028",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-17",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000029",
+    "offer_id":"OFF-2026-000029",
+    "approver_id":"MGR-000046",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-10",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000030",
+    "offer_id":"OFF-2026-000030",
+    "approver_id":"MGR-000045",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-14",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000031",
+    "offer_id":"OFF-2026-000031",
+    "approver_id":"MGR-000036",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-06",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000032",
+    "offer_id":"OFF-2026-000032",
+    "approver_id":"MGR-000011",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-27",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000033",
+    "offer_id":"OFF-2026-000033",
+    "approver_id":"MGR-000029",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000034",
+    "offer_id":"OFF-2026-000034",
+    "approver_id":"MGR-000016",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000035",
+    "offer_id":"OFF-2026-000035",
+    "approver_id":"MGR-000031",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-05",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000036",
+    "offer_id":"OFF-2026-000036",
+    "approver_id":"MGR-000031",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-06",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000037",
+    "offer_id":"OFF-2026-000037",
+    "approver_id":"MGR-000014",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-04",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000038",
+    "offer_id":"OFF-2026-000038",
+    "approver_id":"MGR-000026",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000039",
+    "offer_id":"OFF-2026-000039",
+    "approver_id":"MGR-000035",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000040",
+    "offer_id":"OFF-2026-000040",
+    "approver_id":"MGR-000040",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-01",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000041",
+    "offer_id":"OFF-2026-000041",
+    "approver_id":"MGR-000047",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-24",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000042",
+    "offer_id":"OFF-2026-000042",
+    "approver_id":"MGR-000033",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-26",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000043",
+    "offer_id":"OFF-2026-000043",
+    "approver_id":"MGR-000017",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-10",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000044",
+    "offer_id":"OFF-2026-000044",
+    "approver_id":"MGR-000011",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-27",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000045",
+    "offer_id":"OFF-2026-000045",
+    "approver_id":"MGR-000010",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-03",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000046",
+    "offer_id":"OFF-2026-000046",
+    "approver_id":"MGR-000031",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000047",
+    "offer_id":"OFF-2026-000047",
+    "approver_id":"MGR-000026",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-13",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000048",
+    "offer_id":"OFF-2026-000048",
+    "approver_id":"MGR-000032",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000049",
+    "offer_id":"OFF-2026-000049",
+    "approver_id":"MGR-000002",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000050",
+    "offer_id":"OFF-2026-000050",
+    "approver_id":"MGR-000015",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-18",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000051",
+    "offer_id":"OFF-2026-000051",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-14",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000052",
+    "offer_id":"OFF-2026-000052",
+    "approver_id":"MGR-000047",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-26",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000053",
+    "offer_id":"OFF-2026-000053",
+    "approver_id":"MGR-000026",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-11",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000054",
+    "offer_id":"OFF-2026-000054",
+    "approver_id":"MGR-000037",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-19",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000055",
+    "offer_id":"OFF-2026-000055",
+    "approver_id":"MGR-000047",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000056",
+    "offer_id":"OFF-2026-000056",
+    "approver_id":"MGR-000029",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-20",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000057",
+    "offer_id":"OFF-2026-000057",
+    "approver_id":"MGR-000045",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000058",
+    "offer_id":"OFF-2026-000058",
+    "approver_id":"MGR-000019",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-18",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000059",
+    "offer_id":"OFF-2026-000059",
+    "approver_id":"MGR-000022",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-23",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000060",
+    "offer_id":"OFF-2026-000060",
+    "approver_id":"MGR-000009",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-25",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000061",
+    "offer_id":"OFF-2026-000061",
+    "approver_id":"MGR-000009",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-11",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000062",
+    "offer_id":"OFF-2026-000062",
+    "approver_id":"MGR-000025",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-04",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000063",
+    "offer_id":"OFF-2026-000063",
+    "approver_id":"MGR-000007",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000064",
+    "offer_id":"OFF-2026-000064",
+    "approver_id":"MGR-000048",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000065",
+    "offer_id":"OFF-2026-000065",
+    "approver_id":"MGR-000031",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-02",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000066",
+    "offer_id":"OFF-2026-000066",
+    "approver_id":"MGR-000035",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-05",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000067",
+    "offer_id":"OFF-2026-000067",
+    "approver_id":"MGR-000017",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000068",
+    "offer_id":"OFF-2026-000068",
+    "approver_id":"MGR-000039",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000069",
+    "offer_id":"OFF-2026-000069",
+    "approver_id":"MGR-000021",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-21",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000070",
+    "offer_id":"OFF-2026-000070",
+    "approver_id":"MGR-000030",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-14",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000071",
+    "offer_id":"OFF-2026-000071",
+    "approver_id":"MGR-000011",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000072",
+    "offer_id":"OFF-2026-000072",
+    "approver_id":"MGR-000009",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000073",
+    "offer_id":"OFF-2026-000073",
+    "approver_id":"MGR-000021",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-13",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000074",
+    "offer_id":"OFF-2026-000074",
+    "approver_id":"MGR-000038",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-20",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000075",
+    "offer_id":"OFF-2026-000075",
+    "approver_id":"MGR-000044",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-06",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000076",
+    "offer_id":"OFF-2026-000076",
+    "approver_id":"MGR-000034",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-29",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000077",
+    "offer_id":"OFF-2026-000077",
+    "approver_id":"MGR-000010",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-18",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000078",
+    "offer_id":"OFF-2026-000078",
+    "approver_id":"MGR-000034",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-19",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000079",
+    "offer_id":"OFF-2026-000079",
+    "approver_id":"MGR-000003",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-19",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000080",
+    "offer_id":"OFF-2026-000080",
+    "approver_id":"MGR-000039",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-24",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000081",
+    "offer_id":"OFF-2026-000081",
+    "approver_id":"MGR-000018",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-28",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000082",
+    "offer_id":"OFF-2026-000082",
+    "approver_id":"MGR-000015",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000083",
+    "offer_id":"OFF-2026-000083",
+    "approver_id":"MGR-000021",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000084",
+    "offer_id":"OFF-2026-000084",
+    "approver_id":"MGR-000049",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-10",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000085",
+    "offer_id":"OFF-2026-000085",
+    "approver_id":"MGR-000046",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000086",
+    "offer_id":"OFF-2026-000086",
+    "approver_id":"MGR-000029",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000087",
+    "offer_id":"OFF-2026-000087",
+    "approver_id":"MGR-000002",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000088",
+    "offer_id":"OFF-2026-000088",
+    "approver_id":"MGR-000049",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000089",
+    "offer_id":"OFF-2026-000089",
+    "approver_id":"MGR-000050",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000090",
+    "offer_id":"OFF-2026-000090",
+    "approver_id":"MGR-000001",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000091",
+    "offer_id":"OFF-2026-000091",
+    "approver_id":"MGR-000035",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000092",
+    "offer_id":"OFF-2026-000092",
+    "approver_id":"MGR-000039",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-18",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000093",
+    "offer_id":"OFF-2026-000093",
+    "approver_id":"MGR-000027",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-14",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000094",
+    "offer_id":"OFF-2026-000094",
+    "approver_id":"MGR-000017",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000095",
+    "offer_id":"OFF-2026-000095",
+    "approver_id":"MGR-000008",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-29",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000096",
+    "offer_id":"OFF-2026-000096",
+    "approver_id":"MGR-000021",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000097",
+    "offer_id":"OFF-2026-000097",
+    "approver_id":"MGR-000035",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000098",
+    "offer_id":"OFF-2026-000098",
+    "approver_id":"MGR-000019",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-28",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000099",
+    "offer_id":"OFF-2026-000099",
+    "approver_id":"MGR-000013",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000100",
+    "offer_id":"OFF-2026-000100",
+    "approver_id":"MGR-000006",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000101",
+    "offer_id":"OFF-2026-000101",
+    "approver_id":"MGR-000043",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-21",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000102",
+    "offer_id":"OFF-2026-000102",
+    "approver_id":"MGR-000010",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-05",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000103",
+    "offer_id":"OFF-2026-000103",
+    "approver_id":"MGR-000020",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000104",
+    "offer_id":"OFF-2026-000104",
+    "approver_id":"MGR-000049",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-15",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000105",
+    "offer_id":"OFF-2026-000105",
+    "approver_id":"MGR-000001",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-02",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000106",
+    "offer_id":"OFF-2026-000106",
+    "approver_id":"MGR-000034",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-03",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000107",
+    "offer_id":"OFF-2026-000107",
+    "approver_id":"MGR-000036",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-11",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000108",
+    "offer_id":"OFF-2026-000108",
+    "approver_id":"MGR-000020",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-24",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000109",
+    "offer_id":"OFF-2026-000109",
+    "approver_id":"MGR-000021",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-28",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000110",
+    "offer_id":"OFF-2026-000110",
+    "approver_id":"MGR-000017",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-24",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000111",
+    "offer_id":"OFF-2026-000111",
+    "approver_id":"MGR-000049",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-26",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000112",
+    "offer_id":"OFF-2026-000112",
+    "approver_id":"MGR-000009",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-23",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000113",
+    "offer_id":"OFF-2026-000113",
+    "approver_id":"MGR-000037",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000114",
+    "offer_id":"OFF-2026-000114",
+    "approver_id":"MGR-000049",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000115",
+    "offer_id":"OFF-2026-000115",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-25",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000116",
+    "offer_id":"OFF-2026-000116",
+    "approver_id":"MGR-000013",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-25",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000117",
+    "offer_id":"OFF-2026-000117",
+    "approver_id":"MGR-000030",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-23",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000118",
+    "offer_id":"OFF-2026-000118",
+    "approver_id":"MGR-000016",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-21",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000119",
+    "offer_id":"OFF-2026-000119",
+    "approver_id":"MGR-000034",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-28",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000120",
+    "offer_id":"OFF-2026-000120",
+    "approver_id":"MGR-000043",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000121",
+    "offer_id":"OFF-2026-000121",
+    "approver_id":"MGR-000011",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-15",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000122",
+    "offer_id":"OFF-2026-000122",
+    "approver_id":"MGR-000004",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-30",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000123",
+    "offer_id":"OFF-2026-000123",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000124",
+    "offer_id":"OFF-2026-000124",
+    "approver_id":"MGR-000026",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-04",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000125",
+    "offer_id":"OFF-2026-000125",
+    "approver_id":"MGR-000030",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-05",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000126",
+    "offer_id":"OFF-2026-000126",
+    "approver_id":"MGR-000021",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-26",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000127",
+    "offer_id":"OFF-2026-000127",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-03",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000128",
+    "offer_id":"OFF-2026-000128",
+    "approver_id":"MGR-000035",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000129",
+    "offer_id":"OFF-2026-000129",
+    "approver_id":"MGR-000009",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-15",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000130",
+    "offer_id":"OFF-2026-000130",
+    "approver_id":"MGR-000009",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-25",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000131",
+    "offer_id":"OFF-2026-000131",
+    "approver_id":"MGR-000021",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-13",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000132",
+    "offer_id":"OFF-2026-000132",
+    "approver_id":"MGR-000020",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-21",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000133",
+    "offer_id":"OFF-2026-000133",
+    "approver_id":"MGR-000018",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-18",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000134",
+    "offer_id":"OFF-2026-000134",
+    "approver_id":"MGR-000022",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-11",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000135",
+    "offer_id":"OFF-2026-000135",
+    "approver_id":"MGR-000012",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-19",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000136",
+    "offer_id":"OFF-2026-000136",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-11",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000137",
+    "offer_id":"OFF-2026-000137",
+    "approver_id":"MGR-000045",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-04",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000138",
+    "offer_id":"OFF-2026-000138",
+    "approver_id":"MGR-000048",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-21",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000139",
+    "offer_id":"OFF-2026-000139",
+    "approver_id":"MGR-000043",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-11",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000140",
+    "offer_id":"OFF-2026-000140",
+    "approver_id":"MGR-000015",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000141",
+    "offer_id":"OFF-2026-000141",
+    "approver_id":"MGR-000047",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-21",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000142",
+    "offer_id":"OFF-2026-000142",
+    "approver_id":"MGR-000009",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-31",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000143",
+    "offer_id":"OFF-2026-000143",
+    "approver_id":"MGR-000023",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000144",
+    "offer_id":"OFF-2026-000144",
+    "approver_id":"MGR-000007",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-12",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000145",
+    "offer_id":"OFF-2026-000145",
+    "approver_id":"MGR-000027",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-28",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000146",
+    "offer_id":"OFF-2026-000146",
+    "approver_id":"MGR-000027",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-19",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000147",
+    "offer_id":"OFF-2026-000147",
+    "approver_id":"MGR-000010",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-25",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000148",
+    "offer_id":"OFF-2026-000148",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000149",
+    "offer_id":"OFF-2026-000149",
+    "approver_id":"MGR-000017",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-28",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000150",
+    "offer_id":"OFF-2026-000150",
+    "approver_id":"MGR-000038",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-04",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000151",
+    "offer_id":"OFF-2026-000151",
+    "approver_id":"MGR-000039",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-12",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000152",
+    "offer_id":"OFF-2026-000152",
+    "approver_id":"MGR-000030",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-27",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000153",
+    "offer_id":"OFF-2026-000153",
+    "approver_id":"MGR-000020",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-03",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000154",
+    "offer_id":"OFF-2026-000154",
+    "approver_id":"MGR-000003",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000155",
+    "offer_id":"OFF-2026-000155",
+    "approver_id":"MGR-000023",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-04",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000156",
+    "offer_id":"OFF-2026-000156",
+    "approver_id":"MGR-000048",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-02",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000157",
+    "offer_id":"OFF-2026-000157",
+    "approver_id":"MGR-000035",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000158",
+    "offer_id":"OFF-2026-000158",
+    "approver_id":"MGR-000027",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-27",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000159",
+    "offer_id":"OFF-2026-000159",
+    "approver_id":"MGR-000027",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-26",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000160",
+    "offer_id":"OFF-2026-000160",
+    "approver_id":"MGR-000048",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000161",
+    "offer_id":"OFF-2026-000161",
+    "approver_id":"MGR-000017",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-21",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000162",
+    "offer_id":"OFF-2026-000162",
+    "approver_id":"MGR-000040",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-10",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000163",
+    "offer_id":"OFF-2026-000163",
+    "approver_id":"MGR-000050",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-06",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000164",
+    "offer_id":"OFF-2026-000164",
+    "approver_id":"MGR-000050",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-15",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000165",
+    "offer_id":"OFF-2026-000165",
+    "approver_id":"MGR-000001",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-12",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000166",
+    "offer_id":"OFF-2026-000166",
+    "approver_id":"MGR-000032",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-13",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000167",
+    "offer_id":"OFF-2026-000167",
+    "approver_id":"MGR-000039",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-20",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000168",
+    "offer_id":"OFF-2026-000168",
+    "approver_id":"MGR-000001",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-14",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000169",
+    "offer_id":"OFF-2026-000169",
+    "approver_id":"MGR-000023",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000170",
+    "offer_id":"OFF-2026-000170",
+    "approver_id":"MGR-000006",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000171",
+    "offer_id":"OFF-2026-000171",
+    "approver_id":"MGR-000031",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-09",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000172",
+    "offer_id":"OFF-2026-000172",
+    "approver_id":"MGR-000015",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-11",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000173",
+    "offer_id":"OFF-2026-000173",
+    "approver_id":"MGR-000027",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-17",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000174",
+    "offer_id":"OFF-2026-000174",
+    "approver_id":"MGR-000050",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-01",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000175",
+    "offer_id":"OFF-2026-000175",
+    "approver_id":"MGR-000050",
+    "decision":"APPROVED",
+    "decision_date":"2026-02-22",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000176",
+    "offer_id":"OFF-2026-000176",
+    "approver_id":"MGR-000003",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-10",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000177",
+    "offer_id":"OFF-2026-000177",
+    "approver_id":"MGR-000001",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-07",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000178",
+    "offer_id":"OFF-2026-000178",
+    "approver_id":"MGR-000001",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-04",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000179",
+    "offer_id":"OFF-2026-000179",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-19",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000180",
+    "offer_id":"OFF-2026-000180",
+    "approver_id":"MGR-000021",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-11",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000181",
+    "offer_id":"OFF-2026-000181",
+    "approver_id":"MGR-000011",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-10",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000182",
+    "offer_id":"OFF-2026-000182",
+    "approver_id":"MGR-000049",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-18",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000183",
+    "offer_id":"OFF-2026-000183",
+    "approver_id":"MGR-000007",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-17",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000184",
+    "offer_id":"OFF-2026-000184",
+    "approver_id":"MGR-000039",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-03",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000185",
+    "offer_id":"OFF-2026-000185",
+    "approver_id":"MGR-000028",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-05",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000186",
+    "offer_id":"OFF-2026-000186",
+    "approver_id":"MGR-000016",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-29",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000187",
+    "offer_id":"OFF-2026-000187",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000188",
+    "offer_id":"OFF-2026-000188",
+    "approver_id":"MGR-000048",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-15",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000189",
+    "offer_id":"OFF-2026-000189",
+    "approver_id":"MGR-000014",
+    "decision":"APPROVED",
+    "decision_date":"2026-01-25",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000190",
+    "offer_id":"OFF-2026-000190",
+    "approver_id":"MGR-000015",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-18",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000191",
+    "offer_id":"OFF-2026-000191",
+    "approver_id":"MGR-000037",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-16",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000192",
+    "offer_id":"OFF-2026-000192",
+    "approver_id":"MGR-000050",
+    "decision":"APPROVED",
+    "decision_date":"2026-04-27",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000193",
+    "offer_id":"OFF-2026-000193",
+    "approver_id":"MGR-000015",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-28",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000194",
+    "offer_id":"OFF-2026-000194",
+    "approver_id":"MGR-000013",
+    "decision":"APPROVED",
+    "decision_date":"2026-06-29",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000195",
+    "offer_id":"OFF-2026-000195",
+    "approver_id":"MGR-000013",
+    "decision":"APPROVED",
+    "decision_date":"2026-05-28",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000196",
+    "offer_id":"OFF-2026-000196",
+    "approver_id":"MGR-000018",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-08",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000197",
+    "offer_id":"OFF-2026-000197",
+    "approver_id":"MGR-000006",
+    "decision":"APPROVED",
+    "decision_date":"2026-03-14",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000198",
+    "offer_id":"OFF-2026-000198",
+    "approver_id":"MGR-000005",
+    "decision":"APPROVED",
+    "decision_date":"2026-08-17",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000199",
+    "offer_id":"OFF-2026-000199",
+    "approver_id":"MGR-000019",
+    "decision":"APPROVED",
+    "decision_date":"2026-09-14",
+    "comments":"Within approved band"
+  },
+  {
+    "approval_id":"APR-000200",
+    "offer_id":"OFF-2026-000200",
+    "approver_id":"MGR-000020",
+    "decision":"APPROVED",
+    "decision_date":"2026-07-31",
+    "comments":"Within approved band"
+  }
+]

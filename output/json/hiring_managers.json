@@ -1,0 +1,352 @@
+[
+  {
+    "manager_id":"MGR-000001",
+    "manager_name":"Priya Joshi",
+    "email":"manager1@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000002",
+    "manager_name":"Divya Rao",
+    "email":"manager2@example.test",
+    "department":"Customer Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000003",
+    "manager_name":"Kiran Patel",
+    "email":"manager3@example.test",
+    "department":"Data",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000004",
+    "manager_name":"Aarav Verma",
+    "email":"manager4@example.test",
+    "department":"Customer Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000005",
+    "manager_name":"Varun Reddy",
+    "email":"manager5@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000006",
+    "manager_name":"Isha Patel",
+    "email":"manager6@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000007",
+    "manager_name":"Zoya Sharma",
+    "email":"manager7@example.test",
+    "department":"Product",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000008",
+    "manager_name":"Isha Naidu",
+    "email":"manager8@example.test",
+    "department":"Data",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000009",
+    "manager_name":"Sowmya Sharma",
+    "email":"manager9@example.test",
+    "department":"Data",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000010",
+    "manager_name":"Vikram Nair",
+    "email":"manager10@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000011",
+    "manager_name":"Vikram Sharma",
+    "email":"manager11@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000012",
+    "manager_name":"Arjun Joshi",
+    "email":"manager12@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000013",
+    "manager_name":"Sanjay Rao",
+    "email":"manager13@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000014",
+    "manager_name":"Arjun Reddy",
+    "email":"manager14@example.test",
+    "department":"AI Platform",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000015",
+    "manager_name":"Akash Mishra",
+    "email":"manager15@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000016",
+    "manager_name":"Vikram Patel",
+    "email":"manager16@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000017",
+    "manager_name":"Sowmya Singh",
+    "email":"manager17@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000018",
+    "manager_name":"Divya Gupta",
+    "email":"manager18@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000019",
+    "manager_name":"Riya Sharma",
+    "email":"manager19@example.test",
+    "department":"AI Platform",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000020",
+    "manager_name":"Sana Verma",
+    "email":"manager20@example.test",
+    "department":"Customer Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000021",
+    "manager_name":"Aditi Reddy",
+    "email":"manager21@example.test",
+    "department":"Customer Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000022",
+    "manager_name":"Rahul Mishra",
+    "email":"manager22@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000023",
+    "manager_name":"Isha Naidu",
+    "email":"manager23@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000024",
+    "manager_name":"Akash Singh",
+    "email":"manager24@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000025",
+    "manager_name":"Neha Das",
+    "email":"manager25@example.test",
+    "department":"Data",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000026",
+    "manager_name":"Aarav Sharma",
+    "email":"manager26@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000027",
+    "manager_name":"Rahul Patel",
+    "email":"manager27@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000028",
+    "manager_name":"Sanjay Nair",
+    "email":"manager28@example.test",
+    "department":"Product",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000029",
+    "manager_name":"Akash Verma",
+    "email":"manager29@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000030",
+    "manager_name":"Aditi Singh",
+    "email":"manager30@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000031",
+    "manager_name":"Vikram Gupta",
+    "email":"manager31@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000032",
+    "manager_name":"Sanjay Rao",
+    "email":"manager32@example.test",
+    "department":"Data",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000033",
+    "manager_name":"Aarav Naidu",
+    "email":"manager33@example.test",
+    "department":"Product",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000034",
+    "manager_name":"Divya Kumar",
+    "email":"manager34@example.test",
+    "department":"Customer Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000035",
+    "manager_name":"Sowmya Das",
+    "email":"manager35@example.test",
+    "department":"Product",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000036",
+    "manager_name":"Sowmya Iyer",
+    "email":"manager36@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000037",
+    "manager_name":"Aditi Khan",
+    "email":"manager37@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000038",
+    "manager_name":"Sana Rao",
+    "email":"manager38@example.test",
+    "department":"Customer Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000039",
+    "manager_name":"Ananya Rao",
+    "email":"manager39@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000040",
+    "manager_name":"Vikram Joshi",
+    "email":"manager40@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000041",
+    "manager_name":"Aditi Verma",
+    "email":"manager41@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000042",
+    "manager_name":"Aarav Gupta",
+    "email":"manager42@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000043",
+    "manager_name":"Meera Gupta",
+    "email":"manager43@example.test",
+    "department":"Engineering",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000044",
+    "manager_name":"Sana Verma",
+    "email":"manager44@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000045",
+    "manager_name":"Isha Verma",
+    "email":"manager45@example.test",
+    "department":"Cloud Operations",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000046",
+    "manager_name":"Zoya Das",
+    "email":"manager46@example.test",
+    "department":"Product",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000047",
+    "manager_name":"Sowmya Verma",
+    "email":"manager47@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000048",
+    "manager_name":"Sanjay Kumar",
+    "email":"manager48@example.test",
+    "department":"Product",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000049",
+    "manager_name":"Meera Singh",
+    "email":"manager49@example.test",
+    "department":"Quality",
+    "active":true
+  },
+  {
+    "manager_id":"MGR-000050",
+    "manager_name":"Rahul Khan",
+    "email":"manager50@example.test",
+    "department":"Customer Operations",
+    "active":true
+  }
+]

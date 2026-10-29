@@ -1,0 +1,254 @@
+[
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"hiring_managers",
+    "count":0,
+    "status":"PASS",
+    "details":"manager_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"requisitions",
+    "count":0,
+    "status":"PASS",
+    "details":"requisition_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"candidates",
+    "count":0,
+    "status":"PASS",
+    "details":"candidate_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"skill_requirements",
+    "count":0,
+    "status":"PASS",
+    "details":"skill_requirement_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"applications",
+    "count":0,
+    "status":"PASS",
+    "details":"application_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"interviewers",
+    "count":0,
+    "status":"PASS",
+    "details":"interviewer_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"interview_panels",
+    "count":0,
+    "status":"PASS",
+    "details":"panel_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"availability",
+    "count":0,
+    "status":"PASS",
+    "details":"availability_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"interviews",
+    "count":0,
+    "status":"PASS",
+    "details":"interview_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"scorecards",
+    "count":0,
+    "status":"PASS",
+    "details":"scorecard_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"offers",
+    "count":0,
+    "status":"PASS",
+    "details":"offer_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"approvals",
+    "count":0,
+    "status":"PASS",
+    "details":"approval_id"
+  },
+  {
+    "check":"PRIMARY_KEY_UNIQUENESS",
+    "table":"application_stage_history",
+    "count":0,
+    "status":"PASS",
+    "details":"event_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"requisitions",
+    "count":0,
+    "status":"PASS",
+    "details":"hiring_manager_id -> hiring_managers.manager_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"skill_requirements",
+    "count":0,
+    "status":"PASS",
+    "details":"requisition_id -> requisitions.requisition_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"applications",
+    "count":0,
+    "status":"PASS",
+    "details":"candidate_id -> candidates.candidate_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"applications",
+    "count":0,
+    "status":"PASS",
+    "details":"requisition_id -> requisitions.requisition_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"interview_panels",
+    "count":0,
+    "status":"PASS",
+    "details":"requisition_id -> requisitions.requisition_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"availability",
+    "count":0,
+    "status":"PASS",
+    "details":"interviewer_id -> interviewers.interviewer_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"interviews",
+    "count":0,
+    "status":"PASS",
+    "details":"application_id -> applications.application_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"interviews",
+    "count":0,
+    "status":"PASS",
+    "details":"panel_id -> interview_panels.panel_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"interviews",
+    "count":0,
+    "status":"PASS",
+    "details":"interviewer_id -> interviewers.interviewer_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"scorecards",
+    "count":0,
+    "status":"PASS",
+    "details":"interview_id -> interviews.interview_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"scorecards",
+    "count":0,
+    "status":"PASS",
+    "details":"reviewer_id -> interviewers.interviewer_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"offers",
+    "count":0,
+    "status":"PASS",
+    "details":"application_id -> applications.application_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"approvals",
+    "count":0,
+    "status":"PASS",
+    "details":"offer_id -> offers.offer_id"
+  },
+  {
+    "check":"FOREIGN_KEY_INTEGRITY",
+    "table":"application_stage_history",
+    "count":0,
+    "status":"PASS",
+    "details":"application_id -> applications.application_id"
+  },
+  {
+    "check":"COMPENSATION_BAND_ARITHMETIC",
+    "table":"requisitions",
+    "count":0,
+    "status":"PASS",
+    "details":"salary_min_inr must be <= salary_max_inr"
+  },
+  {
+    "check":"SCORE_RECONCILIATION",
+    "table":"scorecards",
+    "count":0,
+    "status":"PASS",
+    "details":"overall_score must equal the mean of four rubric scores"
+  },
+  {
+    "check":"ALLOWED_STAGE_ENUM",
+    "table":"applications",
+    "count":0,
+    "status":"PASS",
+    "details":"current_stage must be a documented stage"
+  },
+  {
+    "check":"LABELLED_EDGE_CASE_COVERAGE",
+    "table":"ground_truth",
+    "count":5,
+    "status":"PASS",
+    "details":"Known anomalies are stored separately from operational input tables"
+  },
+  {
+    "check":"STAGE_GATE_EXCEPTIONS",
+    "table":"applications",
+    "count":1553,
+    "status":"FLAGGED",
+    "details":"Technical-stage applications without a completed prior review need investigation; simplified prototype gate check"
+  },
+  {
+    "check":"ACTIVE_INTERVIEWER_CONFLICTS",
+    "table":"interviews",
+    "count":0,
+    "status":"PASS",
+    "details":"Same interviewer\/date\/start slot used by multiple active interviews"
+  },
+  {
+    "check":"WITHDRAWN_APPLICATION_ACTIVE_INTERVIEWS",
+    "table":"interviews",
+    "count":49,
+    "status":"FLAGGED",
+    "details":"Withdrawn applications should not have scheduled or rescheduled interviews"
+  },
+  {
+    "check":"OFFERS_OUTSIDE_COMPENSATION_BAND",
+    "table":"offers",
+    "count":1,
+    "status":"FLAGGED",
+    "details":"Out-of-band offers must be rejected or escalated"
+  },
+  {
+    "check":"IRRELEVANT_SCORECARD_CRITERIA",
+    "table":"scorecards",
+    "count":1,
+    "status":"FLAGGED",
+    "details":"Only documented job-related rubric criteria should be used"
+  }
+]
